@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kutira-Kone</string>
+    <string name="upload_scrap">Upload Fabric Scrap</string>
+    <string name="browse_catalog">Browse Catalog</string>
+    <string name="request_swap">Request Swap</string>
+    <string name="filter_by_material">Filter by Material</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_requests">My Requests</string>
+    <string name="action_logout">Logout</string>
+</resources>
